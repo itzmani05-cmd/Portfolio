@@ -1,0 +1,339 @@
+{
+  "about": {
+    "name": "Manikandan M",
+    "title": "Full Stack Developer",
+    "tagline": "Building scalable web applications with a focus on performance, reliability, and user experience.",
+    "description": "A Computer Science undergraduate passionate about designing and developing full-stack applications. From educational platforms and data-driven dashboards to large-scale admission systems, I enjoy transforming complex requirements into efficient, maintainable, and user-focused solutions. My interests span backend architecture, cloud deployment, and creating products that deliver real-world value.",
+    "resumeLink": "/resume.pdf"
+  },
+  "projects": [
+    {
+      "projectNo": 1,
+      "title": "C³ – Quiz & Student Activity Platform",
+      "tagline": "A freelance EdTech product — from idea to production.",
+      "highlights": [
+        "Built a cross-platform EdTech product featuring a mobile app for students and an admin portal for quiz management, real-time evaluation, and analytics.",
+        "Handled end-to-end development including backend API architecture and database design.",
+        "Empowered 6+ administrators to evaluate submissions efficiently and track activity for 100+ active students."
+      ],
+      "description": "A freelance EdTech platform delivering real-time quiz participation and activity tracking. Built the full product — mobile app, admin portal, backend, and cloud deployment — independently.",
+      "liveDemoLink": "https://c3-website-frontend-rho.vercel.app/",
+      "techStack": [
+        "React JS",
+        "React Native",
+        "Node JS",
+        "Express JS",
+        "MongoDB"
+      ],
+      "categories": [
+        "Mobile App",
+        "Full-Stack"
+      ]
+    },
+    {
+      "projectNo": 2,
+      "title": "Engineering College Insights Platform",
+      "tagline": "Making 500+ colleges' data explorable and actionable.",
+      "highlights": [
+        "Designed a full-stack analytics platform with a React interface featuring advanced search, filtering, and course-wise/cutoff-wise analytics.",
+        "Developed scalable RESTful APIs and optimized MongoDB database queries for fast data retrieval.",
+        "Consolidated fragmented data across 500+ engineering colleges (courses, cutoffs, intake) into an explorable and actionable dashboard."
+      ],
+      "description": "A full-stack web application for exploring and analyzing data from 500+ engineering colleges, featuring advanced search, cutoff analytics, and a scalable REST API backend.",
+      "techStack": [
+        "React JS",
+        "Node JS",
+        "Express JS",
+        "MongoDB",
+        "Ant Design"
+      ],
+      "categories": [
+        "Web App",
+        "Full-Stack"
+      ]
+    },
+    {
+      "projectNo": 3,
+      "title": "TNEA Seat-Matrix Portal",
+      "tagline": "Government-grade infrastructure. Built as a student.",
+      "highlights": [
+        "Architected and deployed a full-stack portal on AWS (EC2 + S3 + NGINX) to manage Tamil Nadu's engineering admission seat allocation.",
+        "Built a real-time admin dashboard, secure document handling system, and reusable React UI components for seamless institutional access.",
+        "Delivered highly reliable, scalable infrastructure to manage 200,000+ government seats across 500+ colleges with zero tolerance for downtime."
+      ],
+      "description": "A statewide seat-allocation system used by 500+ engineering colleges across Tamil Nadu to manage 200,000+ government seats - with admin dashboards, cloud storage, and NGINX-served production deployment.",
+      "techStack": [
+        "React JS",
+        "Node JS",
+        "Express JS",
+        "MongoDB",
+        "AWS EC2",
+        "AWS S3",
+        "NGINX"
+      ],
+      "categories": [
+        "Web App",
+        "Cloud"
+      ]
+    },
+    {
+      "projectNo": 4,
+      "title": "Trust Website",
+      "tagline": "A digital presence for a charitable trust.",
+      "highlights": [
+        "Designed a full-stack scholarship management platform with a React interface featuring application tracking, status checks, and role-based dashboards for students and admins.",
+        "Developed RESTful APIs with Node.js/Express and Prisma ORM, backed by PostgreSQL, to handle application submissions, document uploads, and audit logging.",
+        "Integrated Supabase authentication and secure payment processing to manage end-to-end applicant onboarding and fee collection.",
+        "Automated certificate and PDF generation for approved applications, reducing manual admin overhead.",
+        "Built a multilingual, responsive UI with Tailwind CSS supporting scholarship/event browsing, FAQs, and policy pages for public accessibility."
+      ],
+      "description": "A full-stack scholarship and trust management platform enabling students to apply for scholarships, track application status, and manage documents, while admins review submissions, process payments, and issue certificates through a secure, role-based dashboard.",
+      "liveDemoLink": "https://nextgen-educational-trust.vercel.app",
+      "techStack": [
+        "React JS",
+        "Node JS",
+        "Express JS",
+        "Supabase",
+        "Tailwind CSS"
+      ],
+      "categories": [
+        "Website",
+        "Full-Stack"
+      ]
+    },
+    {
+      "projectNo": 5,
+      "title": "Bluekode Attendance System",
+      "tagline": "Streamlining attendance tracking at Bluekode Academy.",
+      "highlights": [
+        "Developed an attendance tracking module as part of work at Bluekode Academy.",
+        "Details to be updated."
+      ],
+      "description": "An attendance management system built during time at Bluekode Academy. Details to be updated.",
+      "githubLink": "",
+      "techStack": [
+        "Nest JS",
+        "PostgreSQL"
+      ],
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "projectNo": 6,
+      "title": "LMS – Learning Management System",
+      "tagline": "A multi-institution learning management platform.",
+      "highlights": [
+        "Contributed to backend development of a multi-institution LMS at Bluekode Academy.",
+        "Details to be updated."
+      ],
+      "description": "A Learning Management System supporting courses, enrollments, and progress tracking across institutions. Details to be updated.",
+      "githubLink": "",
+      "techStack": [
+        "Nest JS",
+        "Prisma ORM",
+        "PostgreSQL"
+      ],
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "projectNo": 7,
+      "title": "Bigwigs Technologies Website",
+      "tagline": "The company website for an enterprise AI, data and software engineering firm.",
+      "highlights": [
+        "Designed and developed the official website for Bigwigs Technologies Private Limited, a freelance project for the company's founder.",
+        "Built it as a multi-page React single-page app with per-route SEO metadata, so each page has its own title and description for search and link previews."
+      ],
+      "description": "The official website for Bigwigs Technologies, an enterprise AI, data and software engineering company, built as a freelance project.",
+      "liveDemoLink": "https://bigwigstech.com/",
+      "techStack": [],
+      "categories": [
+        "Web App"
+      ]
+    },
+    {
+      "projectNo": 8,
+      "title": "PhoneMail",
+      "tagline": "Your phone number is your email address.",
+      "highlights": [
+        "Built during the AlphaStack 7-Day Buildathon x CEDI NIT Trichy: an email service where every account is a phone number (9876543210@phonemail.com), with passwordless OTP login.",
+        "Developed the NestJS + PostgreSQL (Prisma) backend, a Gmail-style React web client, and a WhatsApp-style Expo mobile app that groups mail into per-sender chats.",
+        "Added sign-up by IVR call and SMS (Twilio), a custom SMTP server for inbound mail, and Nodemailer + Resend for outbound mail.",
+        "Dockerized the stack and covered it with 28 unit and 92 end-to-end tests against a real PostgreSQL database."
+      ],
+      "description": "A phone-number-based email service built in 7 days at the AlphaStack Buildathon, with a web client, a mobile app, and sign-up by app, IVR call or SMS.",
+      "githubLink": "https://github.com/itzmani05-cmd/phonemailer",
+      "techStack": [
+        "Nest JS",
+        "Typescript",
+        "Prisma ORM",
+        "PostgreSQL",
+        "React JS",
+        "React Native",
+        "Twilio",
+        "Docker"
+      ],
+      "categories": [
+        "Full-Stack",
+        "Mobile"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Full Stack Developer",
+      "company": "TNEA – Tamil Nadu Engineering Admissions",
+      "companyUrl": "https://tneaseatmatrix.com/",
+      "duration": "Mar 2025 – Nov 2025",
+      "location": "Coimbatore, Tamil Nadu",
+      "summary": "Led end-to-end development of a government-grade seat-allocation platform used statewide.",
+      "highlights": [
+        "Built and deployed a seat-matrix portal adopted by 500+ engineering colleges across Tamil Nadu for government seat allocation.",
+        "Streamlined data entry for 200,000+ seats — replacing entirely manual, error-prone processes with a centralized online system.",
+        "Architected a real-time admin dashboard for live college submission tracking and seat allocation reporting.",
+        "Integrated AWS S3 for secure document storage, improving data accessibility and retrieval efficiency.",
+        "Served as primary technical contact — debugging, user support, and system reliability across the full deployment lifecycle.",
+        "Developed responsive, reusable React UI components ensuring cross-device access for all 500+ institution users."
+      ],
+      "techStack": [
+        "React JS",
+        "Node JS",
+        "Express JS",
+        "MongoDB",
+        "AWS EC2",
+        "AWS S3",
+        "Antd",
+        "NGINX"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Backend Intern",
+      "company": "Bluekode Academy",
+      "companyUrl": "https://bluekodeacademy.com/",
+      "duration": "May 2026 –  Present",
+      "location": "Coimbatore, Tamil Nadu",
+      "summary": "Working on the backend development of a multi-institution Learning Management System (LMS) using NestJS, Prisma ORM, and PostgreSQL.",
+      "highlights": [
+        "Contributing to the design of database schemas for institutions, users, courses, enrollments, and student progress tracking.",
+        "Developing REST APIs for course management, enrollment workflows, and learning progress monitoring.",
+        "Implementing Role-Based Access Control (RBAC) for students, trainers, and administrators.",
+        "Collaborating with the development team to translate business requirements into scalable backend solutions.",
+        "Learning and applying backend development best practices using NestJS, Prisma ORM, and PostgreSQL."
+      ],
+      "techStack": [
+        "Nest JS",
+        "Typescript",
+        "Prisma ORM",
+        "Postgre SQL",
+        "AWS EC2",
+        "Redis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "BE – Computer Science and Engineering",
+      "institution": "Government College of Technology, Coimbatore",
+      "year": "Sep 2023 – Present",
+      "cgpa": "7.3 / 10",
+      "clubs": [
+        { "name": "Coding Club", "role": "Project Lead" }
+      ]
+    }
+  ],
+  "skills": {
+    "Programming Languages": [
+      "JavaScript",
+      "C",
+      "Java",
+      "Python"
+    ],
+    "Frontend & Mobile": [
+      "React JS",
+      "React Native",
+      "HTML & CSS",
+      "Tailwind CSS",
+      "Ant Design"
+    ],
+    "Backend & Cloud": [
+      "Node JS",
+      "Express JS",
+      "Nest JS",
+      "RESTful APIs",
+      "Nginx",
+      "AWS EC2",
+      "AWS S3"
+    ],
+    "Database & ORM": [
+      "MySQL",
+      "MongoDB",
+      "Supabase",
+      "Prisma",
+      "PostgreSQL"
+    ],
+    "Tools": [
+      "Git & GitHub",
+      "Insomnia",
+      "Figma"
+    ]
+  },
+  "certificates": [
+    {
+      "id": 1,
+      "title": "AWS Certified Cloud Practitioner",
+      "issuer": "Udemy"
+    },
+    {
+      "id": 2,
+      "title": "Web Developer for Beginner",
+      "issuer": "Simplilearn"
+    }
+  ],
+  "githubStats": {
+    "totalContributions": "502",
+    "totalRange": "Oct 28, 2025 - Present",
+    "currentStreak": "3",
+    "currentDate": "May 20 - May 22",
+    "longestStreak": "9",
+    "longestRange": "Sep 1, 2026 - Sep 9, 2026",
+    "totalRepositories": "48"
+  },
+  "contact": {
+    "email": "itzmani2005@gmail.com",
+    "phone": "+91 6369925623",
+    "github": "https://github.com/itzmani05-cmd",
+    "linkedin": "https://linkedin.com/in/manikandan005",
+    "location": "Ariyalur, Tamil Nadu"
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Vignesh Ragupathy",
+      "position": "Founder & CEO",
+      "company": "Bigwigs Technologies Private Limited",
+      "logo": "",
+      "message": "We are pleased with his work in developing our company website. He demonstrated strong technical skills, creativity, and dedication throughout the project. He understood our requirements and delivered a professional, user-friendly website that reflects our company's vision. We appreciate his commitment, responsiveness, and valuable contribution to our digital presence. We wish him continued success in his career."
+    },
+    {
+      "id": 2,
+      "name": "Andavar",
+      "position": "Asst. Professor",
+      "company": "C³ EdTech",
+      "logo": "",
+      "message": "We sincerely appreciate the dedication and technical expertise in developing and maintaining digital platforms. The GATE Skill Development Programme website streamlines student registration, data management, and financial operations. A dedicated mobile application was also developed to conduct examinations, with scope for various competitive exams, particularly in Civil Engineering. These solutions have significantly improved the Trust’s administrative efficiency and digital infrastructure. We highly appreciate the commitment and contribution toward strengthening our educational initiatives."
+    },
+    {
+      "id": 3,
+      "name": "Ramesh",
+      "position": "Founder and Managing Trustee",
+      "company": "NextGen Solution Educational Trust",
+      "logo": "",
+      "message": "Building a website for  trust requires a delicate balance of professionalism, security, and emotional connection, and Mr. Manikandan M has delivered it perfectly. He created a beautifully secure and transparent platform that makes it incredibly easy for our community to understand our vision, mission, view our impact, and make secure donations & support. Mr. Manikandan M was incredibly patient, listened to our needs, and ensured the site was accessible to everyone. Thanks to his incredible work, our trust now has a powerful online presence that inspires confidence and helps us drive real change."
+    }
+  ]
+}
